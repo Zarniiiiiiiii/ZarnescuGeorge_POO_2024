@@ -1,0 +1,12 @@
+﻿  CreditCardAccount.cpp
+C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\CreditCardAccount.cpp(7,24): error C2374: 'numberOfAccounts': redefinition; multiple initialization
+  C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\CreditCardAccount.h(24,16):
+  see declaration of 'numberOfAccounts'
+  
+C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\CreditCardAccount.cpp(7,43): error C3366: 'CreditCardAccount::numberOfAccounts': static data members of managed types must be defined within the class definition
+C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\CreditCardAccount.cpp(85,5): error C1075: '{': no matching token found
+  LoyaltyScheme.cpp
+C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\LoyaltyScheme.cpp(14,29): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\LoyaltyScheme.cpp(26,9): error C2653: 'Console': is not a class or namespace name
+C:\Users\Zarni\source\repos\CreditOrganizer\CreditOrganizer\LoyaltyScheme.cpp(26,18): error C3861: 'WriteLine': identifier not found
+  Generating Code...
